@@ -1,8 +1,9 @@
 🎓 LMS Platform – MERN Stack Learning Management System  
+
 **LMS Platform** is a full-stack Learning Management System built using the MERN stack. It offers secure, scalable tools for students and instructors to manage courses, assignments, submissions, and media with JWT-based authentication and Cloudinary file handling.
 
   
-🔗 View Repository: https://github.com/yourusername/LMS_Platform
+🔗 View Repository: https://github.com/lakshanravi/LMS_Platform
 
 ---
 
